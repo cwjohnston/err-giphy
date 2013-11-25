@@ -1,0 +1,2 @@
+requests==1.2.3
+giphypop==0.1

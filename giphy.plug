@@ -1,0 +1,7 @@
+[Core]
+Name = giphy
+Module = giphy
+
+[Documentation]
+Description = An Err interface for the Giphy API
+
